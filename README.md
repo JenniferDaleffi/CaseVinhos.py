@@ -1,6 +1,4 @@
-## Case de Vinhos 🍷
-
-### Tech Challenge Data Analytics FIAP, 2026
+# Tech Challenge Data Analytics FIAP, 2026 | Fase 2
 
 ## Integrantes
 
@@ -14,7 +12,7 @@
 
 - Renan Simões de Farias – RM371818 
 
-<h3 align="center">✒️ Equipe 27, Case E-commerce Olist  </h3>
+<h3 align="center"> 🍷 Case de Vinhos 🍷 </h3>
 
 <table align="center">
   <tr>
@@ -33,7 +31,7 @@
     </td><td align="center" style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/be1754d2-6580-46e6-820b-b816f83188b8" width="120" height="120" style="border-radius: 10px; object-fit: cover;" /><br>
       <sub><b>Leonardo</b></sub><br>
-      <a href="https://github.com/" target="_blank"><img width="20" height="20" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/></a>
+      <a href="https://github.com/LeoMelo95/" target="_blank"><img width="20" height="20" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/></a>
     </td><td align="center" style="padding: 10px;">
       <img src="https://github.com/user-attachments/assets/d47f8585-e513-45bb-9e8b-5451113feeb8" width="120" height="120" style="border-radius: 10px; object-fit: cover;" /><br>
       <sub><b>Renan</b></sub><br>
