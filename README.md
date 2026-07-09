@@ -40,9 +40,7 @@
   </tr>
 </table>
 
-# Descrição do projeto: Análise Exploratória e Classificação da Qualidade de Vinhos 🍷 
-
-## Descrição do Projeto
+## Descrição do projeto: Análise Exploratória e Classificação da Qualidade de Vinhos 🍷 
 
 Este projeto realiza uma Análise Exploratória de Dados (EDA) utilizando uma base de dados de qualidade de vinhos, com o objetivo de compreender como as características físico-químicas influenciam na qualidade final da bebida.
 
