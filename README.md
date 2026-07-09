@@ -51,7 +51,7 @@ Além da exploração dos dados, a variável original **quality** é transformad
 
 Durante o projeto são realizadas etapas de limpeza, análise estatística, visualização gráfica, preparação dos dados e avaliação de modelos de Machine Learning para prever a qualidade dos vinhos.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 💻
 
 - Python
 - Pandas
@@ -61,7 +61,7 @@ Durante o projeto são realizadas etapas de limpeza, análise estatística, visu
 - Scikit-learn
 - Google Colab / Jupyter Notebook
 
-## Objetivos
+## Objetivos 🎯
 
 - Compreender a estrutura da base de dados;
 - Identificar padrões e relações entre as variáveis;
@@ -69,7 +69,7 @@ Durante o projeto são realizadas etapas de limpeza, análise estatística, visu
 - Construir e avaliar modelos de classificação;
 - Comparar métricas de desempenho para selecionar o melhor modelo.
 
-## Base de Dados
+## Base de Dados 📊
 
 A base utilizada é **WineQT.csv**, contendo informações físico-químicas de diferentes vinhos, como:
 
@@ -84,7 +84,7 @@ A base utilizada é **WineQT.csv**, contendo informações físico-químicas de 
 - Teor alcoólico;
 - Qualidade do vinho.
 
-## Resultado Esperado
+## Resultado Esperado 📊
 
 Ao final do projeto, espera-se obter um modelo capaz de classificar corretamente se um vinho possui alta qualidade ou não, utilizando apenas suas características físico-químicas.
 
