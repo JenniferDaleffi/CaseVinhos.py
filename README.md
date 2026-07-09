@@ -40,6 +40,56 @@
   </tr>
 </table>
 
+# Descrição do projeto: Análise Exploratória e Classificação da Qualidade de Vinhos 🍷 
+
+## Descrição do Projeto
+
+Este projeto realiza uma Análise Exploratória de Dados (EDA) utilizando uma base de dados de qualidade de vinhos, com o objetivo de compreender como as características físico-químicas influenciam na qualidade final da bebida.
+
+Além da exploração dos dados, a variável original **quality** é transformada em uma variável binária (**quality_binary**), permitindo tratar o problema como uma tarefa de **classificação binária**, onde:
+
+- **1:** Vinhos de alta qualidade (nota maior ou igual a 7);
+- **0:** Vinhos de qualidade baixa ou intermediária (nota menor que 7).
+
+Durante o projeto são realizadas etapas de limpeza, análise estatística, visualização gráfica, preparação dos dados e avaliação de modelos de Machine Learning para prever a qualidade dos vinhos.
+
+## Tecnologias Utilizadas
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab / Jupyter Notebook
+
+## Objetivos
+
+- Compreender a estrutura da base de dados;
+- Identificar padrões e relações entre as variáveis;
+- Preparar os dados para modelagem;
+- Construir e avaliar modelos de classificação;
+- Comparar métricas de desempenho para selecionar o melhor modelo.
+
+## Base de Dados
+
+A base utilizada é **WineQT.csv**, contendo informações físico-químicas de diferentes vinhos, como:
+
+- Acidez fixa e volátil;
+- Ácido cítrico;
+- Açúcar residual;
+- Cloretos;
+- Dióxido de enxofre;
+- Densidade;
+- pH;
+- Sulfatos;
+- Teor alcoólico;
+- Qualidade do vinho.
+
+## Resultado Esperado
+
+Ao final do projeto, espera-se obter um modelo capaz de classificar corretamente se um vinho possui alta qualidade ou não, utilizando apenas suas características físico-químicas.
+
 # ▶️ Como rodar notebooks (.ipynb) no VS Code com Colab
 
 Siga o passo a passo abaixo para executar seus notebooks diretamente no VS Code usando o Google Colab.
