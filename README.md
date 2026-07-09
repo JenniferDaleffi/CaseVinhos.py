@@ -39,3 +39,71 @@
     </td>
   </tr>
 </table>
+
+# ▶️ Como rodar notebooks (.ipynb) no VS Code com Colab
+
+Siga o passo a passo abaixo para executar seus notebooks diretamente no VS Code usando o Google Colab.
+
+## 🔧 Passo 1: Instalar extensão
+
+Clique no ícone de **Extensões** no menu lateral esquerdo e pesquise por `colab`.
+
+<img width="359" height="320" alt="Image" src="https://github.com/user-attachments/assets/632e2059-946d-41d4-a958-e81b0a37b124" />
+
+---
+
+## 📦 Passo 2: Instalar a extensão correta
+
+Instale a **primeira extensão** que aparecer na busca.  
+Ela deve ser a oficial do Google (com verificação).
+
+<img width="678" height="183" alt="Image" src="https://github.com/user-attachments/assets/6838ebca-3319-4790-8260-2476f1b90b90" />
+
+<img width="295" height="70" alt="Image" src="https://github.com/user-attachments/assets/d99101e5-4da2-4c92-a11f-a04720f23ac7" />
+
+## 📂 Passo 3: Abrir o notebook
+
+Abra seu arquivo `.ipynb` e clique em **Run All** para executar todas as células.
+
+<img width="978" height="478" alt="Image" src="https://github.com/user-attachments/assets/eda6da6d-1fbb-48a0-a5d5-641b2aad9de4" />
+
+---
+
+## ⚙️ Passo 4: Selecionar kernel
+
+Clique em **Select Another Kernel**.
+
+<img width="609" height="91" alt="Image" src="https://github.com/user-attachments/assets/6aa4fb11-9c6b-40be-b7be-d0802c2211a6" />
+
+---
+
+## ☁️ Passo 5: Escolher Colab
+
+Selecione a opção **Colab** como ambiente de execução.
+
+<img width="617" height="138" alt="Image" src="https://github.com/user-attachments/assets/42d817d7-f107-4ddd-98ad-827621ceeb0d" />
+
+---
+
+## 🔗 Passo 6: Conectar
+
+Clique em **Auto Connect**.
+
+<img width="610" height="176" alt="Image" src="https://github.com/user-attachments/assets/0a15e16f-e2ba-46a5-b8b8-7bfb9009af1a" />
+
+---
+
+## 🔐 Passo 7: Login
+
+Faça login na sua conta Google e autorize o acesso.  
+Depois, escolha a opção para ser redirecionado ao VS Code.
+
+<img width="780" height="313" alt="Image" src="https://github.com/user-attachments/assets/4cc05c1c-a9c5-46ec-a52c-4196f435ef02" />
+
+---
+
+## 🐍 Passo 8: Executar com Python
+
+Selecione o kernel **Python (Ipykernel)** e rode o notebook normalmente.
+
+<img width="598" height="162" alt="Image" src="https://github.com/user-attachments/assets/1040db1d-5b6e-4bce-8ad2-ab9141615346" />
