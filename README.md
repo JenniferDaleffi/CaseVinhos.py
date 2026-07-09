@@ -1,4 +1,4 @@
-# Tech Challenge Data Analytics FIAP, 2026 | Fase 2
+## Tech Challenge Data Analytics FIAP, 2026 | Fase 2
 
 ## Integrantes
 
@@ -88,7 +88,7 @@ A base utilizada é **WineQT.csv**, contendo informações físico-químicas de 
 
 Ao final do projeto, espera-se obter um modelo capaz de classificar corretamente se um vinho possui alta qualidade ou não, utilizando apenas suas características físico-químicas.
 
-# ▶️ Como rodar notebooks (.ipynb) no VS Code com Colab
+## ▶️ Como rodar notebooks (.ipynb) no VS Code com Colab
 
 Siga o passo a passo abaixo para executar seus notebooks diretamente no VS Code usando o Google Colab.
 
